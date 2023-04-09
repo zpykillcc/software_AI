@@ -80,4 +80,11 @@ sudo apt-get install ffmpeg
 + FaceNet使用tensorflow
 
 
+### 使用
+```
+flask run -p 6006
+```
+
+端口6006
+
 
