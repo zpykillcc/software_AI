@@ -52,6 +52,12 @@ pip install git+ssh://git@github.com/facebookresearch/pytorch3d.git@stable
 sudo apt-get install ffmpeg
 ```
 
++ 安装facenet依赖
+
+```
+pip install -r requirements.txt
+```
+
 
 
 ### Models
@@ -67,7 +73,7 @@ sudo apt-get install ffmpeg
 
 #### FaceNet
 
-在https://github.com/zpykillcc/facenet可以找到mtcnn和facenet模型放入recgnize/model_check_point
+在https://github.com/zpykillcc/facenet 可以找到mtcnn和facenet模型放入recgnize/model_check_point
 
 
 
